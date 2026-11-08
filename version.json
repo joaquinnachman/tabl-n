@@ -1,0 +1,14 @@
+{
+  "code": 4,
+  "name": "1.2.0",
+  "force": true,
+  "url": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.2.0.apk",
+  "page": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/Tablon.apk",
+  "size": 255215,
+  "sha256": "0328896a06ebc9cd8b1cf7b6ecb84421599f82f7a9b8ee1cfa397668d2a1cd09",
+  "notes": [
+    "Tabla en vivo: las posiciones cambian con los partidos que se están jugando",
+    "Llaves de las copas (Libertadores, Sudamericana, Copa Argentina, Champions y más)",
+    "La app se actualiza sola desde ahora"
+  ]
+}
