@@ -1,16 +1,15 @@
 {
-  "code": 6,
-  "name": "1.3.0",
+  "code": 7,
+  "name": "1.3.1",
   "force": true,
-  "url": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.3.0.apk",
-  "page": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.3.0.apk",
-  "size": 300810,
-  "sha256": "848a4e22b41a66164953c9e9b0e14df6307fa2397642a37dcc36c3ec78867353",
+  "url": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.3.1.apk",
+  "page": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.3.1.apk",
+  "size": 296786,
+  "sha256": "cc142d3565ac0c317f9804b20c350a5424d3924e0344ecdcc8a88c9763aab785",
   "notes": [
-    "Pizarra: armá formaciones, mové a los jugadores, dibujá jugadas y compartila como imagen",
-    "Widget para la pantalla de inicio con los partidos de hoy de tus equipos",
-    "Plantel de cada equipo con los números de la temporada",
-    "Buscador de equipos en Mis equipos",
-    "Sin conexión: muestra lo último que se cargó"
+    "Formaciones como en Promiedos: los dos equipos en la misma cancha, con suplentes y cambios",
+    "Widget: tus equipos, los partidos en vivo y, si no hay ninguno, los destacados del día",
+    "Tocá un partido del widget y se abre en la app",
+    "Se sacó la pizarra"
   ]
 }
