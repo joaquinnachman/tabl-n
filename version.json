@@ -1,14 +1,14 @@
 {
-  "code": 4,
-  "name": "1.2.0",
+  "code": 5,
+  "name": "1.2.1",
   "force": true,
-  "url": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.2.0.apk",
-  "page": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/Tablon.apk",
-  "size": 255215,
-  "sha256": "97a37657d29130e989461fc7f5d380cfae1e9eb2b02abdf389b7f382278acf86",
+  "url": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.2.1.apk",
+  "page": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.2.1.apk",
+  "size": 255214,
+  "sha256": "07fe32e1aa98fc94480e62a6fdbc45977c12056d5c749644cde430149c6c98e6",
   "notes": [
-    "Tabla en vivo: las posiciones cambian con los partidos que se están jugando",
-    "Llaves de las copas (Libertadores, Sudamericana, Copa Argentina, Champions y más)",
-    "La app se actualiza sola desde ahora"
+    "Los partidos de tus equipos ya no se repiten más abajo; muestran de qué torneo son",
+    "Exportar e importar tus equipos y ajustes (en Ajustes)",
+    "Más protección: la app solo se conecta con ESPN y GitHub"
   ]
 }
