@@ -1,17 +1,14 @@
 {
-  "code": 9,
-  "name": "1.4.0",
+  "code": 10,
+  "name": "1.4.1",
   "force": true,
-  "url": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.4.0.apk",
-  "page": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.4.0.apk",
-  "size": 321577,
-  "sha256": "bf6b56112a6906e0eaf56255977791925a2cdc0862e36759683cd55144490c46",
+  "url": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.4.1.apk",
+  "page": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.4.1.apk",
+  "size": 321578,
+  "sha256": "93678050be4d4499e94435ec5ff105b6b0770488e93b8c5b80654a2426d034b4",
   "notes": [
-    "Marcador en vivo de tus equipos en una notificación fija",
-    "Promedios del descenso y tabla anual de la Liga Profesional",
-    "Previa: cómo vienen los dos equipos y el historial entre ellos",
-    "Videos de ESPN (resumen y goles) y botón para agendar los partidos",
-    "Widget chico con el próximo partido y cuenta regresiva",
-    "Primera B Metro y Supercopa Internacional"
+    "League One (tercera de Inglaterra)",
+    "Tus equipos que ascienden o descienden se siguen viendo: la app detecta en qué liga juegan ahora",
+    "En la página de cada equipo aparecen todas sus competiciones (copas incluidas)"
   ]
 }
