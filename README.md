@@ -1,6 +1,6 @@
 # Tablón
 
-App de fútbol para Android: partidos del día, en vivo, tablas (también en vivo), llaves de las copas, formaciones, estadísticas, planteles y widget para la pantalla de inicio con tus equipos, los partidos en vivo y los destacados del día.
+App de fútbol para Android: partidos del día, en vivo, tablas (también en vivo), llaves de las copas, formaciones, estadísticas, planteles, promedios del descenso, tabla anual, videos, marcador en vivo en la notificación y dos widgets (partidos de hoy y próximo partido con cuenta regresiva).
 
 ## Instalarla
 
