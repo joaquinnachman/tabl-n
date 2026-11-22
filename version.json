@@ -1,14 +1,14 @@
 {
-  "code": 12,
-  "name": "1.5.1",
+  "code": 13,
+  "name": "1.6.0",
   "force": true,
-  "url": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.5.1.apk",
-  "page": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.5.1.apk",
-  "size": 506641,
-  "sha256": "641d3a2278fddf6500519b44905913bb670b0f7eda02b6adb9f92c79db473ac4",
+  "url": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.6.0.apk",
+  "page": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.6.0.apk",
+  "size": 494422,
+  "sha256": "897c0bf9bb2528fdbc5174be36493fc9189047ea19d292a5e025d39ccf9404e9",
   "notes": [
-    "¡Campeón! Cuando uno de tus equipos gana un título, la app lo festeja hasta su próximo partido",
-    "Finales (copas, Apertura y Clausura) y ligas que se definen por tabla",
-    "Arreglo: el buscador de Mis equipos ya no se borra solo"
+    "Logo nuevo: el arco con la pelota clavada en el ángulo (con \"Mi equipo\" toma los colores de tu equipo)",
+    "Diseño Claro, para usar con mucho sol (Ajustes → Diseño)",
+    "Copia automática de tus equipos y ajustes en un archivo que elegís (por ejemplo en Google Drive), para recuperarlos si cambiás de celular"
   ]
 }
