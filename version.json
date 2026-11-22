@@ -1,14 +1,14 @@
 {
-  "code": 13,
-  "name": "1.6.0",
+  "code": 14,
+  "name": "1.6.1",
   "force": true,
-  "url": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.6.0.apk",
-  "page": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.6.0.apk",
-  "size": 494422,
-  "sha256": "897c0bf9bb2528fdbc5174be36493fc9189047ea19d292a5e025d39ccf9404e9",
+  "url": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.6.1.apk",
+  "page": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.6.1.apk",
+  "size": 494421,
+  "sha256": "e8bc2ba59c79759f7f18761a7aeeca4239846361b5c97e89a1c0dc3a343954d0",
   "notes": [
-    "Logo nuevo: el arco con la pelota clavada en el ángulo (con \"Mi equipo\" toma los colores de tu equipo)",
-    "Diseño Claro, para usar con mucho sol (Ajustes → Diseño)",
-    "Copia automática de tus equipos y ajustes en un archivo que elegís (por ejemplo en Google Drive), para recuperarlos si cambiás de celular"
+    "Arreglo: en la 1.6.0 los partidos no se veían (la lista quedaba vacía)",
+    "Logo nuevo: el arco con la pelota clavada en el ángulo",
+    "Diseño Claro y copia automática de tus equipos y ajustes (Ajustes)"
   ]
 }
