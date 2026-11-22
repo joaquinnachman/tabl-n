@@ -1,14 +1,14 @@
 {
-  "code": 11,
-  "name": "1.5.0",
+  "code": 12,
+  "name": "1.5.1",
   "force": true,
-  "url": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.5.0.apk",
-  "page": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.5.0.apk",
-  "size": 502543,
-  "sha256": "cb1111f791b13461c32ca66855a3939a7ddf611a84991dddfb3d39abffc093ea",
+  "url": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.5.1.apk",
+  "page": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.5.1.apk",
+  "size": 506641,
+  "sha256": "641d3a2278fddf6500519b44905913bb670b0f7eda02b6adb9f92c79db473ac4",
   "notes": [
-    "Diseños opcionales: Teletexto y Celular 2010 (Ajustes → Diseño). El actual sigue igual por defecto",
-    "Mi equipo (opcional): elegí uno con el corazón en Mis equipos; va primero y la app se puede teñir con sus colores",
-    "Arreglo: ya no aparece \"Final\" repetido en las incidencias de partidos con pausas por lesión"
+    "¡Campeón! Cuando uno de tus equipos gana un título, la app lo festeja hasta su próximo partido",
+    "Finales (copas, Apertura y Clausura) y ligas que se definen por tabla",
+    "Arreglo: el buscador de Mis equipos ya no se borra solo"
   ]
 }
