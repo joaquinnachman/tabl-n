@@ -1,16 +1,15 @@
 {
-  "code": 15,
-  "name": "1.7.0",
+  "code": 16,
+  "name": "1.8.0",
   "force": true,
-  "url": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.7.0.apk",
-  "page": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.7.0.apk",
-  "size": 572439,
-  "sha256": "eb81b2505a088c98d738a76228eed49380bf397db3b9bad5d75f226262363374",
+  "url": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.8.0.apk",
+  "page": "https://raw.githubusercontent.com/joaquinnachman/tabl-n/main/apk/Tablon-1.8.0.apk",
+  "size": 588822,
+  "sha256": "b16f1e5d2d3879f86567c9f2f4f96172dd3f4c8059fa30a08e4e9222facd39b1",
   "pmver": "1.11.7.5",
   "notes": [
-    "Todo el ascenso: Primera Nacional, B Metro, Federal A, Primera C y Promocional Amateur (Reserva y Femenino se activan en Ajustes)",
-    "Cuadro de llaves para los playoffs y las copas, como elnine",
-    "Reglamento de cada categoría: ascensos, descensos y promedios",
-    "Historial: campeones y tablas de Primera desde 1891, y temporadas anteriores"
+    "Tu equipo en el calendario: los partidos aparecen en Google Calendar y se actualizan solos (fechas nuevas, cambios de horario, postergados y resultados)",
+    "Se activa en Ajustes → Calendario, en la tarjeta de Mi equipo o en la página de cada equipo",
+    "Podés elegir un calendario propio de Tablón o uno de tu cuenta de Google (así se ve también en la PC), y un aviso antes de cada partido"
   ]
 }
